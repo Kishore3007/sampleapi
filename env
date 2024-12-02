@@ -1,0 +1,2 @@
+OPEN_API_KEY = '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'
+MONGODB_URI = 'mongodb://dev-aitento-db-instance:nIqkixodE1xgWEpALlCs5mwHKTx4OS0gdwX7EG6jxoQihjSlXLo5PN9NEEhEbdHdjImG0NpTVYfpACDb4olL9A==@dev-aitento-db-instance.mongo.cosmos.azure.com:10255/?ssl=true&&connectTimeoutMS=30000&retrywrites=false&maxIdleTimeMS=120000&appName=@dev-aitento-db-instance@'

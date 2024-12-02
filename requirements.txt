@@ -1,0 +1,13 @@
+fastapi
+motor
+openai
+pydantic
+pymongo
+PyPDF2
+python-dotenv
+python_docx
+pywin32; sys_platform == 'win32'
+uvicorn
+python-multipart
+starlette
+
